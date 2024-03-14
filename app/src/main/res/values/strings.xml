@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConvertNumberToWord</string>
+    <string name="ConvertBTN">Convert</string>
+    <string name="EnterTXT">Enter single digit number to convert</string>
+    <string name="ResultTXT">Result:</string>
+</resources>
